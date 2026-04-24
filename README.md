@@ -142,4 +142,30 @@ Railsは「全部入り」のフレームワークで、
 
 [1]: https://guides.rubyonrails.org/getting_started.html?utm_source=chatgpt.com "Getting Started with Rails"
 [2]: https://railsguides.jp/getting_started.html?utm_source=chatgpt.com "Rails をはじめよう - Railsガイド"
-[3]: https://rubyonrails.org/?utm_source=chatgpt.com "Ruby on Rails: Accelerate your agents with convention over ..."
+
+# [3]: https://rubyonrails.org/?utm_source=chatgpt.com "Ruby on Rails: Accelerate your agents with convention over ..."
+
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+- Ruby version
+
+- System dependencies
+
+- Configuration
+
+- Database creation
+
+- Database initialization
+
+- How to run the test suite
+
+- Services (job queues, cache servers, search engines, etc.)
+
+- Deployment instructions
+
+- ...
